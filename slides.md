@@ -6,9 +6,7 @@ highlighter: shiki
 lineNumbers: false
 info: |
   ## Big Ball of Mud
-  NMT paper reading group
 
-  Learn more at our [repo](https://github.com/spring-media/paper_reading_group/tree/master)
 drawings:
   persist: false
 transition: slide-left
@@ -92,7 +90,7 @@ Here is another comment.
 ---
 layout: image-right
 image: >-
-  https://lumiere-a.akamaihd.net/v1/images/01_194dfed7.jpeg?region=0%2C0%2C1024%2C576
+  https://pkrauss-hohl.site/_next/image?url=/static/images/forces_ball_of_mud.png&w=1200&q=75
 ---
 
 # Forces
