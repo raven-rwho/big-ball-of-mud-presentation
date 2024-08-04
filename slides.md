@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: https://deviq.com/static/bbadac1df808c8af3ce29b22f2f7a5e8/08b4d/big-ball-of-mud-survivor.webp
+background: https://pkrauss-hohl.site/_next/image?url=/static/images/mud.png&w=1200&q=75
 class: text-center
 highlighter: shiki
 lineNumbers: false
